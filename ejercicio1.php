@@ -32,7 +32,7 @@
    <OPTION>Jazz
    <OPTION>New Age
    <OPTION>Pop
-   <OPTION>Rock
+   <OPTION>Rap
 </SELECT></P>
 
 <P><INPUT TYPE="SUBMIT" NAME="buscar" VALUE="Buscar"></P>
