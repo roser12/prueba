@@ -1,7 +1,7 @@
 <HTML LANG="es">
 
 <HEAD>
-   <TITLE>Formulario simple</TITLE>
+   <TITLE>Formulario Simple</TITLE>
    <LINK REL="stylesheet" TYPE="text/css" HREF="estilo.css">
 </HEAD>
 
